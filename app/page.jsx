@@ -3,6 +3,7 @@ import Socials from "@/components/Socials";
 import Stas from "@/components/Stas";
 import { Button } from "@/components/ui/button";
 import { FiDownload } from "react-icons/fi";
+import Services from "./services/page";
 
 const Home = () => {
   return (
@@ -39,9 +40,9 @@ const Home = () => {
             </div>
           </div>
           {/* photo */}
-          <div className="order-1 xl:order-none mb-8 xl:mb-0">
+          {/* <div className="order-1 xl:order-none mb-8 xl:mb-0">
             <Photo />
-          </div>
+          </div> */}
         </div>
       </div>
       <Stas />
