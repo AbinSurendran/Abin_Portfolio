@@ -1,10 +1,8 @@
-
 import { JetBrains_Mono as JetBrainsMonoLoader } from "next/font/google";
 import "./globals.css";
 import Header from "@/components/Header";
 import PageTransition from "@/components/PageTransition";
 import StairTransition from "@/components/StairTransition";
-
 
 const jetbrainsMono = JetBrainsMonoLoader({
   subsets: ["latin"],
@@ -13,9 +11,9 @@ const jetbrainsMono = JetBrainsMonoLoader({
 });
 
 export const metadata = {
-    title: "Abin Surendran",
-    description: "This is my portfolio",
-  };
+  title: "Abin Surendran",
+  description: "This is my portfolio",
+};
 
 export default function RootLayout({ children }) {
   return (
@@ -23,10 +21,8 @@ export default function RootLayout({ children }) {
       <body className={jetbrainsMono.variable}>
         <Header />
         <StairTransition />
-        <PageTransition>
-        {children}
-        </PageTransition>
-        </body>
+        <PageTransition>{children}</PageTransition>
+      </body>
     </html>
   );
 }

@@ -29,7 +29,7 @@ const link = [
 ];
 
 const MobileNav = () => {
-    const pathname = usePathname();
+  const pathname = usePathname();
   return (
     <Sheet>
       <SheetTrigger className="flex justify-center items-center">
@@ -53,7 +53,8 @@ const MobileNav = () => {
                 key={index}
                 className={`${
                   link.path === pathname &&
-                  "text-accent border-b-2 border-accent"}
+                  "text-accent border-b-2 border-accent"
+                }
                 text-xl capitalize hover:text-accent transition-all`}
               >
                 {link.name}

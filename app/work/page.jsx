@@ -15,7 +15,7 @@ import {
 } from "@/components/ui/tooltip";
 import Link from "next/link";
 import Image from "next/image";
-import WorkSliderBtns from "@/components/WorkSliderBtns"; // Ensure this is the correct path
+import WorkSliderBtns from "@/components/WorkSliderBtns"; 
 
 const projects = [
   {
@@ -175,6 +175,3 @@ const Work = () => {
 };
 
 export default Work;
-
-
-
