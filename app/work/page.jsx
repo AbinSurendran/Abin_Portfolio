@@ -50,8 +50,8 @@ const projects = [
       { name: "Framer Motion" },
     ],
     image: "/assets/work/portfolio.png",
-    live: "https://portfolio-abin.vercel.app/",
-    github: "https://github.com/AbinSurendran/portfolio",
+    live: "https://abin-portfolio.vercel.app/",
+    github: "https://github.com/AbinSurendran/Abin_Portfolio",
   },
   {
     num: "03",
@@ -69,6 +69,25 @@ const projects = [
     image: "/assets/work/MERN-Blog.jpg",
     live: "",
     github: "",
+  },
+  {
+    num: "04",
+    category: "Frontend ",
+    title: "Animated_Portfolio",
+    description:
+      "I developed an interactive and visually engaging portfolio website using the latest web development technologies, including Next.js, Tailwind CSS, React.js, and Framer Motion. This project showcases my skills and projects through smooth animations and a modern, responsive design, providing a delightful user experience.",
+    stack: [
+      { name: "HTML 5" },
+      { name: "Tailwind CSS" },
+      { name: "JavaScript" },
+      { name: "React JS" },
+      { name: "Node JS" },
+      { name: "Next js" },
+      { name: "Framer motion" },
+    ],
+    image: "/assets/work/MERN-Blog.jpg",
+    live: "https://portfolio-abin.vercel.app/",
+    github: "https://github.com/AbinSurendran/portfolio",
   },
 ];
 
