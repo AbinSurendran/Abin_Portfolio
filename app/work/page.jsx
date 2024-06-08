@@ -85,7 +85,7 @@ const projects = [
       { name: "Next js" },
       { name: "Framer motion" },
     ],
-    image: "/assets/work/MERN-Blog.jpg",
+    image: "/assets/work/animated-portfolio.png",
     live: "https://portfolio-abin.vercel.app/",
     github: "https://github.com/AbinSurendran/portfolio",
   },
