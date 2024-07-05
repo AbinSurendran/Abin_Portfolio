@@ -63,8 +63,8 @@ const Contact = () => {
       phone: formData.phone,
       service: formData.service,
       message: formData.message,
-      reply_to: formData.email, // Reply to client's email
-      to_email: formData.email, // Send to client's email
+      // reply_to: formData.email, // Reply to client's email
+      // to_email: formData.email, // Send to client's email
     };
 
     emailjs
