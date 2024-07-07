@@ -12,7 +12,7 @@ import {
   SelectItem,
   SelectLabel,
   SelectTrigger,
-  SelectValue,
+  SelectValue,com
 } from "@/components/ui/select";
 
 import { FaPhoneAlt, FaEnvelope, FaMapMarkedAlt } from "react-icons/fa";
@@ -28,7 +28,7 @@ const info = [
   {
     icon: <FaEnvelope />,
     title: "Email",
-    description: "abin123@gmail.com",
+    description: "dev.abin.28@gmail.com",
   },
   {
     icon: <FaMapMarkedAlt />,
