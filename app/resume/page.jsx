@@ -64,21 +64,21 @@ const experience = {
       position: "Front-End Developer Intern",
       duration: "2022-2023",
     },
-    {
-      company: "E-commerce Startup ",
-      position: "Freelance Web Developer ",
-      duration: "2021-2022",
-    },
-    {
-      company: "Freelancer Start up",
-      position: "UI/UX Designer ",
-      duration: "2019-2021",
-    },
-    {
-      company: "Internship ",
-      position: "Web Developer Intern ",
-      duration: "Summer-2019",
-    },
+    // {
+    //   company: "E-commerce Startup ",
+    //   position: "Freelance Web Developer ",
+    //   duration: "2021-2022",
+    // },
+    // {
+    //   company: "Freelancer Start up",
+    //   position: "UI/UX Designer ",
+    //   duration: "2019-2021",
+    // },
+    // {
+    //   company: "Internship ",
+    //   position: "Web Developer Intern ",
+    //   duration: "Summer-2019",
+    // },
   ],
 };
 
@@ -89,11 +89,11 @@ const education = {
   description:
     "MERN stack developer with a strong background in creating dynamic and responsive web applications. With expertise in MongoDB, Express.js, React, and Node.js, I have honed my skills to deliver seamless and efficient user experiences.",
   items: [
-    {
-      Institution: "Luminur Technolab ",
-      degree: "MEA(R)N Stack Web Development",
-      duration: "2023",
-    },
+    // {
+    //   Institution: "Luminur Technolab ",
+    //   degree: "MEA(R)N Stack Web Development",
+    //   duration: "2023",
+    // },
     {
       Institution: "School of Technology and Applied Sciences (STAS)",
       degree: "BSC Computer Science",

@@ -32,7 +32,7 @@ const projects = [
       { name: "React JS" },
       { name: "Stripe" },
     ],
-    image: "/assets/work/E-commerce.jpg",
+    image: "/assets/work/ecom.png",
     live: "",
     github: "",
   },
@@ -56,9 +56,9 @@ const projects = [
   {
     num: "03",
     category: "Full Stack",
-    title: "MERN_BLOG",
+    title: "LMS",
     description:
-      "I have developed a dynamic blog website using the MERN stack (MongoDB, Express.js, React, and Node.js) with integrated payment functionality via Stripe. This platform allows users to read, create, and manage blog posts effortlessly through a user-friendly interface powered by React. The backend, implemented with Node.js and Express.js, ensures efficient server-side operations and secure data handling, while MongoDB stores user data and blog content. To monetize the blog, I have integrated Stripe, enabling secure and smooth payment transactions for premium content and subscriptions. This project highlights my expertise in full-stack development, delivering a seamless and engaging blogging experience combined with reliable payment processing.",
+      "A Learning Management System (LMS) built using the MERN stack (MongoDB, Express.js, React, Node.js) provides a modern and scalable solution for managing, delivering, and tracking educational content online. Here's a detailed description of an LMS platform powered by the MERN stack.The LMS platform built with the MERN stack allows instructors, students, and administrators to interact with the system seamlessly. It provides essential features like course creation, student management, assessments, progress tracking, and communication tools, all within a responsive and user-friendly interface.",
     stack: [
       { name: "HTML 5" },
       { name: "Tailwind CSS" },
@@ -66,7 +66,7 @@ const projects = [
       { name: "React JS" },
       { name: "Node JS" },
     ],
-    image: "/assets/work/MERN-Blog.jpg",
+    image: "/assets/work/lms.png",
     live: "",
     github: "",
   },
