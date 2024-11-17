@@ -18,9 +18,9 @@ const Home = () => {
               <span className="text-accent">Abin Surendran</span>
             </h1>
             <p className="max-w-[500px] mb-9 text-white/80">
-              {/* I excel at crafting elegent digital experiences and I am
-              proficient in various programming languages and technologies. */}
-              As a passionate MERN Stack developer, I specialize in building dynamic, user-friendly web applications that deliver seamless digital experiences. With expertise in MongoDB, Express.js, React, and Node.js, I bring a holistic approach to both front-end and back-end development. I am proficient in modern programming languages and technologies, and I thrive on turning complex ideas into clean, efficient, and scalable code. Whether crafting intuitive user interfaces or developing robust server-side solutions, I focus on creating solutions that are not only functional but also elegant and optimized for performance. Let’s collaborate to bring your vision to life with innovative web development!
+              I excel at crafting elegent digital experiences and I am
+              proficient in various programming languages and technologies.
+              {/* As a passionate MERN Stack developer, I specialize in building dynamic, user-friendly web applications that deliver seamless digital experiences. With expertise in MongoDB, Express.js, React, and Node.js, I bring a holistic approach to both front-end and back-end development. I am proficient in modern programming languages and technologies, and I thrive on turning complex ideas into clean, efficient, and scalable code. Whether crafting intuitive user interfaces or developing robust server-side solutions, I focus on creating solutions that are not only functional but also elegant and optimized for performance. Let’s collaborate to bring your vision to life with innovative web development! */}
             </p>
             {/* btn & socials */}
             <div className="flex flex-col xl:flex-row items-center gap-8">
