@@ -30,7 +30,7 @@ const Home = () => {
                 className="uppercase flex items-center gap-2"
               >
                 <FiDownload className="text-xl" />
-                <a href="/Abin Resume.pdf" download="Abin_Surendran_CV.pdf">
+                <a href="/public/Abin Resume.pdf" download="Abin_Surendran_CV.pdf">
                   <span>Download CV</span>
                 </a>
               </Button>
