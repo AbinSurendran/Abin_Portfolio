@@ -55,15 +55,16 @@ const experience = {
     "MERN stack developer with a strong background in creating dynamic and responsive web applications. With expertise in MongoDB, Express.js, React, and Node.js, I have honed my skills to deliver seamless and efficient user experiences.Developed and deployed multiple web applications using the MERN stack. Created and maintained server-side logic and database schemas.Implemented front-end components and user interfaces with React.js and Tailwind CSS.Integrated third-party APIs and payment gateways (e.g., Stripe).",
   items: [
     {
-      company: "Freelancer Start up ",
-      position: "Full Stack Developer",
-      duration: "2023-Present",
-    },
-    {
-      company: "Freelancer Start up ",
-      position: "Front-End Developer Intern",
-      duration: "2022-2023",
-    },
+      company: "Luminar Technolab",
+      position: "MERN Full Stack Developer Intern",
+      duration: "2025-Present",
+    }
+    // ,
+    // {
+    //   company: "Freelancer Start up ",
+    //   position: "Front-End Developer Intern",
+    //   duration: "2022-2023",
+    // },
     // {
     //   company: "E-commerce Startup ",
     //   position: "Freelance Web Developer ",
@@ -94,20 +95,26 @@ const education = {
     //   degree: "MEA(R)N Stack Web Development",
     //   duration: "2023",
     // },
+     {
+      Institution: "Luminar Technolab",
+      degree: "MERN Full Stack Developer Intern",
+      duration: "2025-Present",
+    },
+
     {
       Institution: "School of Technology and Applied Sciences (STAS)",
       degree: "BSC Computer Science",
-      duration: "2020-2023",
+      duration: "2022-2025",
     },
     {
       Institution: "Udemy",
       degree: "Complete Web Development Bootcomp",
-      duration: "2022-2023",
+      duration: "2021-2022",
     },
     {
       Institution: "Udemy",
       degree: "Server Side Rendering with React and Redux",
-      duration: "2020-2022",
+      duration: "2020-2021",
     },
   ],
 };

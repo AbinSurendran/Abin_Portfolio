@@ -8,7 +8,7 @@ const stas = [
     text: "year of experience",
   },
   {
-    num: 3,
+    num: 4,
     text: "Project completed",
   },
   {

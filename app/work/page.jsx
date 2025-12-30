@@ -21,16 +21,16 @@ const projects = [
   {
     num: "01",
     category: "Full Stack",
-    title: "E-commerce",
+    title: "Learnify – LMS Platform",
     description:
-      "I have developed a comprehensive e-commerce website using the MERN stack (MongoDB, Express.js, React, and Node.js) that offers a seamless shopping experience for users. The platform features a dynamic and responsive user interface built with React, enabling efficient browsing, searching, and filtering of products. The backend, powered by Node.js and Express.js, ensures robust data management and server-side operations, while MongoDB handles the storage of user data and product information. To facilitate secure and reliable payment transactions, the website integrates Stripe, providing users with a smooth checkout process and various payment options. This project showcases a full-stack development approach, emphasizing security, scalability, and user-friendly design.",
+      "I have developed Learnify, a Learning Management System (LMS) platform using React, JavaScript, JSON Server, Bootstrap, and Axios. The platform provides a responsive and user-friendly interface that allows users to browse, enroll in, and manage courses efficiently. The backend, powered by JSON Server and Axios, handles CRUD operations for courses, ensuring seamless data management and interaction. Reusable React components and state management with Hooks enable smooth navigation and dynamic updates across the application. Key features include course listing, course details, and search/filter functionality, creating an intuitive learning experience for users. This project demonstrates a full-stack development approach emphasizing scalability, maintainability, and a modern web interface.",
     stack: [
       { name: "HTML 5" },
       { name: "Tailwind CSS" },
       { name: "JavaScript" },
-      { name: "Node JS" },
+      { name: "Json Server" },
       { name: "React JS" },
-      { name: "Stripe" },
+     
     ],
     image: "/assets/work/ecom.png",
     live: "",
@@ -38,16 +38,16 @@ const projects = [
   },
   {
     num: "02",
-    category: "frontend",
-    title: "Portfolio website",
+    category: "fullstack",
+    title: "Mock.ai",
     description:
-      "I have created a modern and visually appealing portfolio website using Next.js, Tailwind CSS, Framer Motion, and TypeScript. This project demonstrates my ability to build performant and aesthetically pleasing web applications with cutting-edge technologies. Next.js provides server-side rendering and static site generation, ensuring fast load times and SEO optimization. Tailwind CSS is utilized for its utility-first approach, enabling rapid and responsive UI development. Framer Motion adds smooth and interactive animations, enhancing the user experience with dynamic visual effects. TypeScript ensures type safety and maintainable code, contributing to a robust and scalable codebase. This portfolio website highlights my skills in front-end development and design, offering an engaging and professional showcase of my projects and capabilities.",
+      "I have developed Mock.ai, an AI-powered mock interview platform using the MERN stack (MongoDB, Express.js, React, Node.js) and Gemini AI. The platform provides users with AI-driven mock interviews that offer real-time feedback, simulating a professional interview environment. Secure authentication is implemented using Clerk, ensuring safe user access, while Razorpay integration enables smooth and reliable payment processing for premium features. The backend handles interview sessions, user data, and results storage, while the responsive React frontend ensures a seamless and engaging user experience. This project demonstrates a comprehensive full-stack development approach integrating AI, security, and payment functionalities for a real-world application.",
     stack: [
       { name: "HTML 5" },
       { name: "Tailwind CSS 3" },
-      { name: "TypeScript" },
-      { name: "Next JS" },
-      { name: "Framer Motion" },
+      { name: "JavaScript" },
+      { name: "React JS" },
+      { name: "Node JS" },
     ],
     image: "/assets/work/portfolio.png",
     live: "https://abin-portfolio.vercel.app/",
@@ -56,9 +56,9 @@ const projects = [
   {
     num: "03",
     category: "Full Stack",
-    title: "LMS",
+    title: "AI Trip Planner",
     description:
-      "A Learning Management System (LMS) built using the MERN stack (MongoDB, Express.js, React, Node.js) provides a modern and scalable solution for managing, delivering, and tracking educational content online. Here's a detailed description of an LMS platform powered by the MERN stack.The LMS platform built with the MERN stack allows instructors, students, and administrators to interact with the system seamlessly. It provides essential features like course creation, student management, assessments, progress tracking, and communication tools, all within a responsive and user-friendly interface.",
+      "I have developed an AI Trip Planner using the MERN stack (MongoDB, Express.js, React, Node.js) that generates personalized travel itineraries based on user preferences. The backend provides RESTful APIs for managing trips, destinations, and user data, while MongoDB securely stores travel plans and user information. The responsive React frontend delivers a seamless user experience with dynamic itinerary generation and easy navigation. This project showcases a full-stack development approach integrating AI-driven recommendations, efficient data handling, and a modern web interface.",
     stack: [
       { name: "HTML 5" },
       { name: "Tailwind CSS" },
@@ -72,18 +72,17 @@ const projects = [
   },
   {
     num: "04",
-    category: "Frontend ",
-    title: "Animated_Portfolio",
+    category: "Full Stack ",
+    title: "Imagify – AI Image Generator",
     description:
-      "I developed an interactive and visually engaging portfolio website using the latest web development technologies, including Next.js, Tailwind CSS, React.js, and Framer Motion. This project showcases my skills and projects through smooth animations and a modern, responsive design, providing a delightful user experience.",
+      "I have developed Imagify, an AI-powered image generation platform using the MERN stack (MongoDB, Express.js, React, Node.js), enabling users to create images from text prompts. The backend handles user requests, image generation, and data storage, while MongoDB stores user prompts and generated images securely. The platform integrates Razorpay for smooth payment processing, and the responsive React frontend ensures a seamless and intuitive user experience. This project demonstrates a comprehensive full-stack development approach combining AI functionality, payment integration, and modern frontend design.",
     stack: [
       { name: "HTML 5" },
       { name: "Tailwind CSS" },
       { name: "JavaScript" },
       { name: "React JS" },
       { name: "Node JS" },
-      { name: "Next js" },
-      { name: "Framer motion" },
+      
     ],
     image: "/assets/work/animated-portfolio.png",
     live: "https://portfolio-abin.vercel.app/",
